@@ -1,6 +1,6 @@
 **TryWillon**
 
-Jelentsd a hibákat, vagy írj ötleteket, javaslatokat a szerverrel kapcsolatban.
+Jelentsd a hibákat, így könnyeben tudjuk javítani őket.
 A súlyos hibákat, amik nyilvánossá tétele kerülendő (pl. mert kihasználásával valaki tisztességtelen előnyre tehet szert, vagy veszélyezteti a szerver működését) kérünk, hogy ilyen esetben szólj egy Adminnak vagy írj Discordon.
 
 **Segítség a hibajelentéshez**
